@@ -1,4 +1,4 @@
-module github.com/talkkonnect/volume-go
+module github.com/MirkoUgoliniDev/volume-go
 
 go 1.17
 

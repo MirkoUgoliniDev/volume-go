@@ -18,7 +18,7 @@ var (
 
 const (
 //	outputdevice string = "Master"
-//	outputdevice string = "Speaker" // Modified from Master to Speaker for talkkonnect for raspberry pi
+//	outputdevice string = "Speaker" // Output device default per Raspberry Pi
 )
 
 func init() {
